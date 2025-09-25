@@ -6,6 +6,7 @@ The Network Sniffer Tool is a Java-based application for real-time network packe
 It monitors network traffic across TCP, UDP, ICMP, and HTTP protocols, providing detailed insights into packet flow, traffic patterns, and potential security threats. 
 This project is ideal for network administrators, cybersecurity enthusiasts, and SOC analysts.
 
+
 Features
 
 Real-time Packet Capture: Captures live network packets using Java networking APIs.
@@ -17,6 +18,7 @@ Traffic Metrics & Anomaly Detection: Calculates packet size distribution, top ta
 Interactive Monitoring Interface: Displays captured traffic and protocol summaries via a console or GUI.
 
 Security Monitoring: Highlights suspicious activity to support proactive threat detection.
+
 
 How It Works
 
